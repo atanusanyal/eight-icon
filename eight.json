@@ -1,0 +1,297 @@
+{
+    "Categories": 
+        [
+            {
+                "name": "People"
+            },
+            {
+                "name": "Architecture"
+            },
+            {
+                "name": "City"
+            },
+            {
+                "name": "Mountain"
+            },
+            {
+                "name": "Forest"
+            },
+            {
+                "name": "Sunset"
+            },
+            {
+                "name": "Nature"
+            },
+            {
+                "name": "Satellite"
+            },
+            {
+                "name": "Animal"
+            },
+            {
+                "name": "Ocean"
+            },
+            {
+                "name": "Beach"
+            },
+            {
+                "name": "Road"
+            },
+            {
+                "name": "Black and White"
+            },
+            {
+                "name": "House"
+            }
+        ],
+    
+	"Wallpapers":
+        [
+			{
+				"author": "Atanu Sanyal",
+				"url": "https://preview.ibb.co/gUoixH/ray_of_sun_wallpaper_1.jpg",
+				"thumbUrl": "https://preview.ibb.co/gUoixH/ray_of_sun_wallpaper_1.jpg",
+				"name": "Wallpaper 1",
+                "category": "people"
+			},
+            {
+				"author": "Atanu Sanyal",
+				"url": "https://preview.ibb.co/cDcMjx/ray_of_sun_wallpaper_2.jpg",
+				"thumbUrl": "https://preview.ibb.co/cDcMjx/ray_of_sun_wallpaper_2.jpg",
+				"name": "Wallpaper 2",
+                "category": "architecture"
+			},
+            {
+				"author": "Atanu Sanyal",
+				"url": "https://preview.ibb.co/i66gjx/ray_of_sun_wallpaper_3.jpg",
+				"thumbUrl": "https://preview.ibb.co/i66gjx/ray_of_sun_wallpaper_3.jpg",
+				"name": "Wallpaper 3",
+                "category": "architecture,city"
+			},
+            {
+				"author": "Atanu Sanyal",
+				"url": "https://image.ibb.co/cj4OxH/ray_of_sun_wallpaper_4.jpg",
+				"thumbUrl": "https://image.ibb.co/cj4OxH/ray_of_sun_wallpaper_4.jpg",
+				"name": "Wallpaper 4",
+                "category": "mountain"
+			},
+            {
+				"author": "Atanu Sanyal",
+				"url": "https://preview.ibb.co/kLME4x/ray_of_sun_wallpaper_5.jpg",
+				"thumbUrl": "https://preview.ibb.co/kLME4x/ray_of_sun_wallpaper_5.jpg",
+				"name": "Wallpaper 5",
+                "category": "mountain,forest"
+			},
+            {
+				"author": "Atanu Sanyal",
+				"url": "https://image.ibb.co/mxOSPx/ray_of_sun_wallpaper_6.jpg",
+				"thumbUrl": "https://image.ibb.co/mxOSPx/ray_of_sun_wallpaper_6.jpg",
+				"name": "Wallpaper 6",
+                "category": "mountain,forest"
+			},
+            {
+				"author": "Atanu Sanyal",
+				"url": "https://image.ibb.co/ktWaBc/ray_of_sun_wallpaper_8.jpg",
+				"thumbUrl": "https://image.ibb.co/ktWaBc/ray_of_sun_wallpaper_8.jpg",
+				"name": "Wallpaper 7",
+                "category": "forest"
+			},
+            {
+				"author": "Atanu Sanyal",
+				"url": "https://image.ibb.co/hGvVux/ray_of_sun_wallpaper_13.jpg",
+				"thumbUrl": "https://image.ibb.co/hGvVux/ray_of_sun_wallpaper_13.jpg",
+				"name": "Wallpaper 8",
+                "category": "mountain,sunset"
+			},
+            {
+				"author": "Atanu Sanyal",
+				"url": "https://image.ibb.co/mR1aSH/ray_of_sun_wallpaper_15.jpg",
+				"thumbUrl": "https://image.ibb.co/mR1aSH/ray_of_sun_wallpaper_15.jpg",
+				"name": "Wallpaper 9",
+                "category": "city"
+			},
+            {
+				"author": "Atanu Sanyal",
+				"url": "https://image.ibb.co/fhgLux/ray_of_sun_wallpaper_16.jpg",
+				"thumbUrl": "https://image.ibb.co/fhgLux/ray_of_sun_wallpaper_16.jpg",
+				"name": "Wallpaper 10",
+                "category": "forest,sunset"
+			},
+            {
+				"author": "Atanu Sanyal",
+				"url": "https://image.ibb.co/iPpZMc/ray_of_sun_wallpaper_14.jpg",
+				"thumbUrl": "https://image.ibb.co/iPpZMc/ray_of_sun_wallpaper_14.jpg",
+				"name": "Wallpaper 11",
+                "category": "mountain"
+			},
+            {
+				"author": "Atanu Sanyal",
+				"url": "https://image.ibb.co/kLe6Zx/ray_of_sun_wallpaper_17.jpg",
+				"thumbUrl": "https://image.ibb.co/kLe6Zx/ray_of_sun_wallpaper_17.jpg",
+				"name": "Wallpaper 12",
+                "category": "forest"
+			},
+            {
+				"author": "Atanu Sanyal",
+				"url": "https://image.ibb.co/nJhRZx/ray_of_sun_wallpaper_18.jpg",
+				"thumbUrl": "https://image.ibb.co/nJhRZx/ray_of_sun_wallpaper_18.jpg",
+				"name": "Wallpaper 13",
+                "category": "nature"
+			},
+            {
+				"author": "Atanu Sanyal",
+				"url": "https://image.ibb.co/m4UvSH/ray_of_sun_wallpaper_19.jpg",
+				"thumbUrl": "https://image.ibb.co/m4UvSH/ray_of_sun_wallpaper_19.jpg",
+				"name": "Wallpaper 14",
+                "category": "Wallpaper 14"
+			},
+	     {
+				"author": "Atanu Sanyal",
+				"url": "https://image.ibb.co/eA7yzx/ray_of_sun_wallpaper_20.jpg",
+				"thumbUrl": "https://image.ibb.co/eA7yzx/ray_of_sun_wallpaper_20.jpg",
+				"name": "Wallpaper 15",
+                "category": "Wallpaper 14"
+			},
+	     {
+				"author": "Google",
+				"url": "https://image.ibb.co/d0Z7sS/Google_Spring_2018_Wallpapers_2.png",
+				"thumbUrl": "https://image.ibb.co/d0Z7sS/Google_Spring_2018_Wallpapers_2.png",
+				"name": "Wallpaper 16",
+                "category": "Wallpaper 14"
+			},
+	     {
+				"author": "Google",
+				"url": "https://image.ibb.co/kSLfCS/Google_Spring_2018_Wallpapers_3.png",
+				"thumbUrl": "https://image.ibb.co/kSLfCS/Google_Spring_2018_Wallpapers_3.png",
+				"name": "Wallpaper 17",
+                "category": "Wallpaper 14"
+			},
+	      {
+				"author": "Google",
+				"url": "https://image.ibb.co/bGive7/Google_Spring_2018_Wallpapers_4.png",
+				"thumbUrl": "https://image.ibb.co/bGive7/Google_Spring_2018_Wallpapers_4.png",
+				"name": "Wallpaper 18",
+                "category": "Wallpaper 14"
+			},
+	      {
+				"author": "Google",
+				"url": "https://preview.ibb.co/kAfxsS/Google_Spring_2018_Wallpapers_5.png",
+				"thumbUrl": "https://preview.ibb.co/kAfxsS/Google_Spring_2018_Wallpapers_5.png",
+				"name": "Wallpaper 19",
+                "category": "Wallpaper 14"
+			},
+	       {
+				"author": "Google",
+				"url": "https://preview.ibb.co/nzE1K7/Google_Spring_2018_Wallpapers_6.png",
+				"thumbUrl": "https://preview.ibb.co/nzE1K7/Google_Spring_2018_Wallpapers_6.png",
+				"name": "Wallpaper 20",
+                "category": "Wallpaper 14"
+			},
+		{
+				"author": "Resourcer",
+				"url": "https://image.ibb.co/g4pumK/r.jpg",
+				"thumbUrl": "https://image.ibb.co/g4pumK/r.jpg",
+				"name": "Wallpaper 21",
+                "category": "Wallpaper 14"
+			},
+		{
+				"author": "Resourcer",
+				"url": "https://image.ibb.co/gp9G0e/r1_1.jpg",
+				"thumbUrl": "https://image.ibb.co/gp9G0e/r1_1.jpg",
+				"name": "Wallpaper 22",
+                "category": "Wallpaper 14"
+			},
+		{
+				"author": "Resourcer",
+				"url": "https://image.ibb.co/nBAZmK/r1_4.jpg",
+				"thumbUrl": "https://image.ibb.co/nBAZmK/r1_4.jpg",
+				"name": "Wallpaper 23",
+                "category": "Wallpaper 14"
+			},
+		{
+				"author": "Resourcer",
+				"url": "https://image.ibb.co/krf0RK/r1_3.jpg",
+				"thumbUrl": "https://image.ibb.co/krf0RK/r1_3.jpg",
+				"name": "Wallpaper 24",
+                "category": "Wallpaper 14"
+			},
+		{
+				"author": "Resourcer",
+				"url": "https://image.ibb.co/dkjS6K/r1_2.jpg",
+				"thumbUrl": "https://image.ibb.co/dkjS6K/r1_2.jpg",
+				"name": "Wallpaper 25",
+                "category": "Wallpaper 14"
+			},
+		{
+				"author": "Venkatesh Sompari",
+				"url": "https://image.ibb.co/dQe4N9/r_1.jpg",
+				"thumbUrl": "https://image.ibb.co/dQe4N9/r_1.jpg",
+				"name": "Wallpaper 26",
+                "category": "Wallpaper 1"
+			},
+		{
+				"author": "Venkatesh Sompari",
+				"url": "https://image.ibb.co/dhDnaU/r_2.jpg",
+				"thumbUrl": "https://image.ibb.co/dhDnaU/r_2.jpg",
+				"name": "Wallpaper 27",
+                "category": "Wallpaper 1"
+			},
+		{
+				"author": "Venkatesh Sompari",
+				"url": "https://image.ibb.co/jbg7aU/r_3.jpg",
+				"thumbUrl": "https://image.ibb.co/jbg7aU/r_3.jpg",
+				"name": "Wallpaper 28",
+                "category": "Wallpaper 1"
+			},
+		{
+				"author": "Venkatesh Sompari",
+				"url": "https://image.ibb.co/mQf0vU/r_4.jpg",
+				"thumbUrl": "https://image.ibb.co/mQf0vU/r_4.jpg",
+				"name": "Wallpaper 29",
+                "category": "Wallpaper 1"
+			},
+		{
+				"author": "Venkatesh Sompari",
+				"url": "https://preview.ibb.co/cTdnaU/r_5.jpg",
+				"thumbUrl": "https://preview.ibb.co/cTdnaU/r_5.jpg",
+				"name": "Wallpaper 30",
+                "category": "Wallpaper 1"
+			},
+		{
+				"author": "Venkatesh Sompari",
+				"url": "https://image.ibb.co/dUaB29/r_6.jpg",
+				"thumbUrl": "https://image.ibb.co/dUaB29/r_6.jpg",
+				"name": "Wallpaper 31",
+                "category": "Wallpaper 1"
+			},
+		{
+				"author": "Venkatesh Sompari",
+				"url": "https://image.ibb.co/jScfvU/r_7.jpg",
+				"thumbUrl": "https://image.ibb.co/jScfvU/r_7.jpg",
+				"name": "Wallpaper 32",
+                "category": "Wallpaper 1"
+			},
+		{
+				"author": "Venkatesh Sompari",
+				"url": "https://image.ibb.co/bDYLvU/r_8.jpg",
+				"thumbUrl": "https://image.ibb.co/bDYLvU/r_8.jpg",
+				"name": "Wallpaper 33",
+                "category": "Wallpaper 1"
+			},
+		{
+				"author": "Venkatesh Sompari",
+				"url": "https://image.ibb.co/ktvN9p/r_9.jpg",
+				"thumbUrl": "https://image.ibb.co/ktvN9p/r_9.jpg",
+				"name": "Wallpaper 34",
+                "category": "Wallpaper 1"
+			},
+		{
+				"author": "Venkatesh Sompari",
+				"url": "https://preview.ibb.co/gAwjN9/r_10.jpg",
+				"thumbUrl": "https://preview.ibb.co/gAwjN9/r_10.jpg",
+				"name": "Wallpaper 35",
+                "category": "Wallpaper 1"
+			}
+            
+		]
+}
